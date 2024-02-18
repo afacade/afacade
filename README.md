@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @afacade
-- 👀 I’m interested in tbd
-- 🌱 I’m currently learning tbd
-- 💞️ I’m looking to collaborate on tbd
-- 📫 How to reach me tbd
-
-<!---
-afacade/afacade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello! I’m Nam Nguyen, a senior Computer Science student at UCSD. Welcome to my coding portfolio
+- 👀 In this portfolio, I have personal projects, applications built in competitions, and along with school coursework.
+- 📫 If you have any questions, don't hesitate to ask, you can also reach me on my LinkedIn: https://www.linkedin.com/in/namnguyen2000/.
+- On another note, I'm currently looking for SWE, data analyst, and data engineering internships! I'd love to connect and talk if you have any opportunities.
